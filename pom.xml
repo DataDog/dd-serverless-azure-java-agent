@@ -44,6 +44,7 @@
                 <directory>src/main/resources</directory>
                 <includes>
                     <include>datadog-serverless-trace-mini-agent</include>
+                    <include>datadog-serverless-trace-mini-agent.exe</include>
                 </includes>
             </resource>
         </resources>
